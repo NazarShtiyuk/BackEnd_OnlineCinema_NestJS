@@ -1,4 +1,4 @@
-export class FileDto {
+export interface FileResponse {
   url: string;
   name: string;
 }
